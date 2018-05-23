@@ -36,6 +36,8 @@
 
 ### Github Repository
 
+
+
 ## Group IV
 
 ### Members
@@ -147,7 +149,17 @@
 ### Github Repository
 * [https://github.com/0ktavandi/webgl](https://github.com/0ktavandi/webgl)
 
+## Group XII
 
+### Members
+
+* (151111084) mukhlas aziz ilham
+* (151111099) restu ilham firmansyah
+* (151111100) yosep freinademetz vicky atawuwur
+
+### Topic & Description
+
+### Github Repository
 
 
 
