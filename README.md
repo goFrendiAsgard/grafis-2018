@@ -36,8 +36,6 @@
 
 ### Github Repository
 
-
-
 ## Group IV
 
 ### Members
