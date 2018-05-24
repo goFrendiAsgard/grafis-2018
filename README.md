@@ -206,6 +206,9 @@
 
 ### Topic & Description
 
+Simulasi Sistem peredaran Tata Surya
+Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari dengan bentuk 3D
+
 ### Github Repository
 * [https://github.com/setyoaldi/projekgrafis](https://github.com/setyoaldi/projekgrafis)
 
