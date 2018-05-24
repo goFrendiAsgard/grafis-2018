@@ -313,6 +313,7 @@
 
 ### Github Repository
 * [https://github.com/Aryow/uas_pem_grafis](https://github.com/Aryow/uas_pem_grafis)
+
 ## Group XXVI
 
 ### Members
@@ -324,11 +325,96 @@
 
 ### Github Repository
 * [https://github.com/diand20/projek-grafis](https://github.com/diand20/projek-grafis)
+
+## Group XXVII
+
 ### Members
 
 * (151111039) Syihab
 * (151111114) Muhshi Chakra dhistar
 * (141111079) Danang Nugroho Adi 
+### Topic & Description
+
+### Github Repository
+
+## Group XXVIII
+
+### Members
+
+* (151111023) Baiq Farida Nolawangi
+* (151111018) Jumawal
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXIX
+
+### Members
+
+* (151111016) Ardy Bagus
+* (151111047) Frederico
+* (151111078) Rizal Arosyid
+
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXX
+
+### Members
+
+* (111110424) Miftah Muhammad
+* (151111046) Syahdan Hidayat
+* (151111136) Raynaldi Susanto 
+
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXXI
+
+### Members
+
+* (151111086) Luthfan Ersa Kamal
+* (141111075) Muh. Fakeh Zainal A.
+
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXXII
+
+### Members
+
+* (151111058) Eko Teguh Prasetyo
+* (151111093) Arif fatur rahman saleh
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXXIII
+
+### Members
+
+* (151111003) Denny Restu P
+* (151111002) Iiq Fatma ARS
+* (151111015) Laurent Bagaskara
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXXIV
+
+### Members
+
+* (111110437) Fajar Fandi Fatgehipon
+
 ### Topic & Description
 
 ### Github Repository
