@@ -1,6 +1,7 @@
 # Classes
 
 * Class B: Group I - Group XII
+* Class A: Group XIII - Group XXVIII
 
 # Groups
 
@@ -229,6 +230,8 @@ Solar System
 
 ### Topic & Description
 
+* Fan: Speed control, direction propeller
+
 ### Github Repository
 * [https://github.com/arizkiredita/uas_grafis](https://github.com/arizkiredita/uas_grafis)
 
@@ -284,6 +287,8 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Topic & Description
 
+* Zepellin
+
 ### Github Repository
 * [https://github.com/RezaCip/uas_grafis](https://github.com/RezaCip/uas_grafis)
 
@@ -304,6 +309,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111009) Yoga Nanda Saputra
 * (151111008) Benny Putra Halim
 * (151111022) Mega Ristanti
+
 ### Topic & Description
 
 ### Github Repository
@@ -315,6 +321,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 * (151111034) Alpin Janitra
 * (151111066) Handyan Ihza R
+
 ### Topic & Description
 
 ### Github Repository
@@ -339,7 +346,10 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111004) Yosua Hadinata
 * (151111063) Ugik Hariyanto
 * (151111064) Moch Afriza
+
 ### Topic & Description
+
+* Clock
 
 ### Github Repository
 * [https://github.com/ugik1880/projekGrafis](https://github.com/ugik1880/projekGrafis)
@@ -351,7 +361,10 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111097) Nikki Rufiansya
 * (151111035) Ashlih Q.A
 * (151111005) Dicky Irfan
+
 ### Topic & Description
+
+* Sun, earth & moon
 
 ### Github Repository
 * [https://github.com/NikkiRufiansya/PemprogramanGrafisTeamNikki](https://github.com/NikkiRufiansya/PemprogramanGrafisTeamNikki)
