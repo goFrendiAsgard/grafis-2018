@@ -1,6 +1,6 @@
 # Classes
 
-* Class B: Group I - Group X
+* Class B: Group I - Group XII
 
 # Groups
 
@@ -14,7 +14,18 @@
 
 ### Topic & Description
 
+Solar System
+
+* 11 Object => Matahari, 8 planet, bulan, cincin Saturnus
+
+
 ### Github Repository
+
+[https://github.com/candrahadi/Grafis2018](https://github.com/candrahadi/Grafis2018)
+
+### Note
+
+* Week1: Creating github repository. Next week expectation: Creating object
 
 ## Group II
 
@@ -38,7 +49,11 @@
 
 ### Topic & Description
 
+* Cammera assembling
+
 ### Github Repository
+
+[https://github.com/aliefhusnawan/UAS_Grafis.git](https://github.com/aliefhusnawan/UAS_Grafis.git)
 
 ## Group IV
 
@@ -50,7 +65,11 @@
 
 ### Topic & Description
 
+* Flying Car: Camera following car, car has two copters
+
 ### Github Repository
+
+[http://github.com/teguhhidayanto/ta_pemrogranangrafis](http://github.com/teguhhidayanto/ta_pemrogranangrafis)
 
 ## Group V
 
@@ -62,19 +81,27 @@
 
 ### Topic & Description
 
+* Fan: two movement, fan direction and the propeller
+
 ### Github Repository
+
+[https://github.com/Josamaru/]
 
 ## Group VI
 
 ### Members
 
-* (151111019) kaleb molewe
-* (151111055) quraisy saktiawan S
-* (151111124) Ode samsul
+* (151111019) Kaleb Molewe
+* (151111055) Quraisy Saktiawan S
+* (151111124) Ode Samsul
 
 ### Topic & Description
 
+* `bianglala`
+
 ### Github Repository
+
+[https://github.com/clarion201/PemrogramanGrafis](https://github.com/clarion201/PemrogramanGrafis)
 
 ## Group VII
 
@@ -124,7 +151,11 @@
 
 ### Topic & Description
 
+* Piston simulation
+
 ### Github Repository
+
+[https://github.com/089697058097/Grafis-2018](https://github.com/089697058097/Grafis-2018)
 
 ## Group XI
 
