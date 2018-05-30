@@ -1,3 +1,7 @@
+# Classes
+
+* Class B: Group I - Group X
+
 # Groups
 
 ## Group I
@@ -121,6 +125,7 @@
 ### Topic & Description
 
 ### Github Repository
+
 ## Group XI
 
 ### Members
