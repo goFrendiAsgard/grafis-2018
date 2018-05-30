@@ -218,6 +218,8 @@ Solar System
 
 ### Topic & Description
 
+* solar eclipse
+
 ### Github Repository
 * [https://github.com/yohanesdl9/graphic_final_project](https://github.com/yohanesdl9/graphic_final_project)
 
@@ -244,6 +246,8 @@ Solar System
 * (151111121) m. tegar maha putra 
 
 ### Topic & Description
+
+* Football's offense & defense simulation
 
 ### Github Repository
 * [https://github.com/rafiadji/graphicFinal](https://github.com/rafiadji/graphicFinal)
@@ -273,6 +277,8 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111050) vina dwi elviani 
 
 ### Topic & Description
+
+* tape <-- not fix
 
 ### Github Repository
 * [https://github.com/maulidta/uasgrafis](https://github.com/maulidta/uasgrafis)
@@ -312,6 +318,8 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Topic & Description
 
+* Submnarine
+
 ### Github Repository
 * [https://github.com/GiezelBartoz/FinalExam](https://github.com/GiezelBartoz/FinalExam)
 
@@ -334,7 +342,10 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111119) Alim Arief
 * (151111075) Yoppie Raditya
 * (151111091) Gustav Arthur
+
 ### Topic & Description
+
+* Music Box: 2 gears and an object
 
 ### Github Repository
 * [https://github.com/alimarf/projekgrafis](https://github.com/alimarf/projekgrafis)
@@ -374,9 +385,13 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Members
 
 * (151111089) Aryo Wibowo
+
 ### Topic & Description
 
+* Android logo, controllable
+
 ### Github Repository
+
 * [https://github.com/Aryow/uas_pem_grafis](https://github.com/Aryow/uas_pem_grafis)
 
 ## Group XXVII
@@ -386,9 +401,13 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111029) Dian Dwi Susanto
 * (151111044) Widiya Mayangsari
 * (151111107) Maudi Octavia Citra
+
 ### Topic & Description
 
+* Copter toy simulation
+
 ### Github Repository
+
 * [https://github.com/diand20/projek-grafis](https://github.com/diand20/projek-grafis)
 
 ## Group XXVIII
@@ -398,6 +417,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111039) Syihab
 * (151111114) Muhshi Chakra dhistar
 * (141111079) Danang Nugroho Adi 
+
 ### Topic & Description
 
 ### Github Repository
