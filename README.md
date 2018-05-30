@@ -37,7 +37,11 @@ Solar System
 
 ### Topic & Description
 
+* `Danbo`
+
 ### Github Repository
+
+[https://github.com/imamHQ/ProjectGrafis](https://github.com/imamHQ/ProjectGrafis)
 
 ## Group III
 
@@ -85,7 +89,7 @@ Solar System
 
 ### Github Repository
 
-[https://github.com/Josamaru/]
+[https://github.com/Josamaru/project1](https://github.com/Josamaru/project1)
 
 ## Group VI
 
@@ -113,7 +117,11 @@ Solar System
 
 ### Topic & Description
 
+* Turbin
+
 ### Github Repository
+
+[]
 
 ## Group VIII
 
@@ -138,8 +146,11 @@ Solar System
 
 ### Topic & Description
 
+* Helicopter
+
 ### Github Repository
 
+[https://github.com/4izenvalt/ProjectGrafis](https://github.com/4izenvalt/ProjectGrafis)
 
 ## Group X
 
@@ -156,19 +167,6 @@ Solar System
 ### Github Repository
 
 [https://github.com/089697058097/Grafis-2018](https://github.com/089697058097/Grafis-2018)
-
-## Group XI
-
-### Members
-
-* (141111059) M.firmansyah ALnaufal G
-* (141111074) Rissa arimawan
-* (141111030) Dixky ari wicaksono
-
-### Topic & Description
-
-### Github Repository
-
 
 ## Group XI
 
@@ -195,7 +193,22 @@ Solar System
 
 ### Github Repository
 
+[https://github.com/restuilhamf/Tugas_UAS](https://github.com/restuilhamf/Tugas_UAS)
+
 ## Group XIII
+
+### Members
+
+* (141111059) M.firmansyah ALnaufal G
+* (141111074) Rissa arimawan
+* (141111030) Dixky ari wicaksono
+
+### Topic & Description
+
+### Github Repository
+
+
+## Group XIV
 
 ### Members
 
@@ -207,7 +220,7 @@ Solar System
 ### Github Repository
 * [https://github.com/yohanesdl9/graphic_final_project](https://github.com/yohanesdl9/graphic_final_project)
 
-## Group xiv
+## Group XV
 ### Members
 
 * (151111021) amy kartika sari
@@ -219,7 +232,7 @@ Solar System
 ### Github Repository
 * [https://github.com/arizkiredita/uas_grafis](https://github.com/arizkiredita/uas_grafis)
 
-## Group XV
+## Group XVI
 
 ### Members
 
@@ -232,7 +245,7 @@ Solar System
 ### Github Repository
 * [https://github.com/rafiadji/graphicFinal](https://github.com/rafiadji/graphicFinal)
 
-## Group XVI
+## Group XVII
 
 ### Members
 
@@ -248,7 +261,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/setyoaldi/projekgrafis](https://github.com/setyoaldi/projekgrafis)
 
-## Group XVII
+## Group XVIII
 
 ### Members
 
@@ -261,7 +274,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/maulidta/uasgrafis](https://github.com/maulidta/uasgrafis)
 
-## Group XVIII
+## Group XIX
 
 ### Members
 
@@ -274,7 +287,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/RezaCip/uas_grafis](https://github.com/RezaCip/uas_grafis)
 
-## Group XIX
+## Group XX
 
 ### Members
 
@@ -284,7 +297,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XX
+## Group XXI
 
 ### Members
 
@@ -296,7 +309,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/GiezelBartoz/FinalExam](https://github.com/GiezelBartoz/FinalExam)
 
-## Group XXI
+## Group XXII
 
 ### Members
 
@@ -307,7 +320,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 
 
-## Group XXII
+## Group XXIII
 
 ### Members
 
@@ -319,7 +332,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/alimarf/projekgrafis](https://github.com/alimarf/projekgrafis)
 
-## Group XXIII
+## Group XXIV
 
 ### Members
 
@@ -331,7 +344,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/ugik1880/projekGrafis](https://github.com/ugik1880/projekGrafis)
 
-## Group XXIV
+## Group XXV
 
 ### Members
 
@@ -343,7 +356,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/NikkiRufiansya/PemprogramanGrafisTeamNikki](https://github.com/NikkiRufiansya/PemprogramanGrafisTeamNikki)
 
-## Group XXV
+## Group XXVI
 
 ### Members
 
@@ -353,7 +366,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/Aryow/uas_pem_grafis](https://github.com/Aryow/uas_pem_grafis)
 
-## Group XXVI
+## Group XXVII
 
 ### Members
 
@@ -365,7 +378,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Github Repository
 * [https://github.com/diand20/projek-grafis](https://github.com/diand20/projek-grafis)
 
-## Group XXVII
+## Group XXVIII
 
 ### Members
 
@@ -376,7 +389,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXVIII
+## Group XXIX
 
 ### Members
 
@@ -387,7 +400,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXIX
+## Group XXX
 
 ### Members
 
@@ -400,7 +413,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXX
+## Group XXXI
 
 ### Members
 
@@ -413,7 +426,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXXI
+## Group XXXII
 
 ### Members
 
@@ -425,7 +438,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXXII
+## Group XXXIII
 
 ### Members
 
@@ -436,7 +449,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXXIII
+## Group XXXIV
 
 ### Members
 
@@ -448,7 +461,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-## Group XXXIV
+## Group XXXV
 
 ### Members
 
