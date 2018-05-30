@@ -122,7 +122,7 @@ Solar System
 
 ### Github Repository
 
-[]
+[https://github.com/arigoputra/ProjectTurbinGrafis.git](https://github.com/arigoputra/ProjectTurbinGrafis.git)
 
 ## Group VIII
 
