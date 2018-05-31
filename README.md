@@ -2,6 +2,7 @@
 
 * Class B: Group I - Group XII
 * Class A: Group XIII - Group XXVIII
+* Class C: Group XXIX - Group XXXV
 
 # Groups
 
