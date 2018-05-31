@@ -2,7 +2,7 @@
 
 * Class B: Group I - Group XII
 * Class A: Group XIII - Group XXVIII
-* Class C: Group XXIX - Group XXXV
+* Class C: Group XXIX - Group XXXVI
 
 # Groups
 
@@ -500,6 +500,18 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Members
 
 * (111110437) Fajar Fandi Fatgehipon
+
+### Topic & Description
+
+### Github Repository
+
+## Group XXXVI
+
+### Members
+
+* (151111126) Wahyu Tri Imansyah
+* (151111094) Arif Akbar
+* (151111112) Catura Bagastra
 
 ### Topic & Description
 
