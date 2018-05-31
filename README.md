@@ -432,7 +432,11 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Topic & Description
 
+* Fan
+
 ### Github Repository
+
+* [https://github.com/Jumawal/Project_Akhir](https://github.com/Jumawal/Project_Akhir)
 
 ## Group XXX
 
@@ -455,10 +459,13 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111046) Syahdan Hidayat
 * (151111136) Raynaldi Susanto 
 
-
 ### Topic & Description
 
+* Jembatan
+
 ### Github Repository
+
+[https://github.com/sinclairetypo0/uas-grafis](https://github.com/sinclairetypo0/uas-grafis)
 
 ## Group XXXII
 
@@ -502,6 +509,8 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (111110437) Fajar Fandi Fatgehipon
 
 ### Topic & Description
+
+* Tata surya
 
 ### Github Repository
 
