@@ -465,7 +465,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-[https://github.com/sinclairetypo0/uas-grafis](https://github.com/sinclairetypo0/uas-grafis)
+[https://github.com/sinclairetype0/uas-pgrafis](https://github.com/sinclairetype0/uas-pgrafis)
 
 ## Group XXXII
 
