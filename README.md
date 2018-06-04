@@ -446,10 +446,11 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * (151111047) Frederico
 * (151111078) Rizal Arosyid
 
-
 ### Topic & Description
 
 ### Github Repository
+
+* [https://ardyrix/TugasAkhirPemogramanGrafis](https://ardyrix/TugasAkhirPemogramanGrafis)
 
 ## Group XXXI
 
@@ -465,7 +466,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Github Repository
 
-[https://github.com/sinclairetypo0/uas-grafis](https://github.com/sinclairetypo0/uas-grafis)
+[https://github.com/sinclairetype0/uas-pgrafis](https://github.com/sinclairetype0/uas-pgrafis)
 
 ## Group XXXII
 
