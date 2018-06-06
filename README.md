@@ -139,7 +139,7 @@ Solar System
 
 ### Github Repository
 
-[https://github.com/safirharianto/ProjectUAS](ProjectUAS)
+[https://github.com/safirharianto/ProjectUAS](https://github.com/safirharianto/ProjectUAS)
 
 
 ## Group IX
