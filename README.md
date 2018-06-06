@@ -75,7 +75,7 @@ Solar System
 
 ### Github Repository
 
-[http://github.com/teguhhidayanto/ta_pemrogranangrafis](http://github.com/teguhhidayanto/ta_pemrogranangrafis)
+[http://github.com/teguhhidayanto/ta_pemrogramangrafis](http://github.com/teguhhidayanto/ta_pemrogramangrafis)
 
 ## Group V
 
