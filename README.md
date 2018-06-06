@@ -336,7 +336,6 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Members
 
 * (151111034) Alpin Janitra
-* (151111066) Handyan Ihza R
 
 ### Topic & Description
 
@@ -393,6 +392,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 ### Members
 
 * (151111089) Aryo Wibowo
+* (151111066) Handyan Ihza R
 
 ### Topic & Description
 
