@@ -208,14 +208,13 @@ Solar System
 ### Members
 
 * (141111059) M.firmansyah ALnaufal G
-* (141111074) Rissa arimawan
-* (141111030) Dixky ari wicaksono
 
 ### Topic & Description
+
 Bird3D
 
 ### Github Repository
-https://github.com/FirmanAlnaufal/projeck-grafis
+[https://github.com/FirmanAlnaufal/projeck-grafis](https://github.com/FirmanAlnaufal/projeck-grafis)
 
 ## Group XIV
 
