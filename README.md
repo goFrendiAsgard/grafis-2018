@@ -286,7 +286,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Topic & Description
 
-* tape <-- not fix
+* truck
 
 ### Github Repository
 * [https://github.com/maulidta/uasgrafis](https://github.com/maulidta/uasgrafis)
