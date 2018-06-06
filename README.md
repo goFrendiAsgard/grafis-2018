@@ -212,9 +212,10 @@ Solar System
 * (141111030) Dixky ari wicaksono
 
 ### Topic & Description
+Bird3D
 
 ### Github Repository
-
+https://github.com/FirmanAlnaufal/projeck-grafis
 
 ## Group XIV
 
