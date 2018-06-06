@@ -432,7 +432,11 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Topic & Description
 
+Bicycle
+
 ### Github Repository
+
+[https://github.com/danang1205/Project-Uas-Grafis](https://github.com/danang1205/Project-Uas-Grafis)
 
 ## Group XXIX
 
