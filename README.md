@@ -463,9 +463,11 @@ Bicycle
 
 ### Topic & Description
 
+* `Danbo`
+
 ### Github Repository
 
-* [https://ardyrix/TugasAkhirPemogramanGrafis](https://ardyrix/TugasAkhirPemogramanGrafis)
+* [https://github.com/ardyrix/TugasAkhirPemrogramanGrafis](https://github.com/ardyrix/TugasAkhirPemrogramanGrafis)
 
 ## Group XXXI
 
@@ -544,7 +546,11 @@ Jam dinding
 
 ### Topic & Description
 
+Simulasi orang berjalan
+
 ### Github Repository
+
+[https://github.com/DewaCopz/proyek-grafis](https://github.com/DewaCopz/proyek-grafis)
 
 ## Group XXXVII
 
