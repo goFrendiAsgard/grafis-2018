@@ -573,3 +573,29 @@ Simulasi orang berjalan
 ### Github Repository
 
 [https://github.com/nandosuchlistio/bounce3d](https://github.com/nandosuchlistio/bounce3d)
+
+## Group XXXVIII
+
+### Members
+* (151111027) Akmalul Hikam
+* (151111007) Daniel EKo Prasetyo T
+
+### Topic & Description
+* alat es serut
+
+### Github Repository
+[https://github.com/AKMALULHIKAM/projectgrafis]
+
+
+## Group XXXIX
+
+### Members
+
+* (141111092) Andrew Fide Prasetyo
+* (141111010) Dendy Asadila
+* (141111031) Andry Prasetyo
+
+### Topic & Description
+
+### Github Repository
+
