@@ -526,7 +526,11 @@ Jam dinding
 
 ### Topic & Description
 
+Gear
+
 ### Github Repository
+
+[https://github.com/dennyrcp1/uasgrafisc](https://github.com/dennyrcp1/uasgrafisc)
 
 ## Group XXXV
 
