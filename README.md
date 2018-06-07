@@ -211,11 +211,10 @@ Solar System
 
 ### Topic & Description
 
-*Bird3D
+Bird3D
 
 ### Github Repository
-
-https://github.com/FirmanAlnaufal/projeck-grafis
+[https://github.com/FirmanAlnaufal/projeck-grafis](https://github.com/FirmanAlnaufal/projeck-grafis)
 
 ## Group XIV
 
