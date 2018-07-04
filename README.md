@@ -59,7 +59,7 @@ Solar System
 
 ### Github Repository
 
-[https://github.com/aliefhusnawan/UAS_Grafis.git](https://github.com/aliefhusnawan/UAS_Grafis.git)
+[https://github.com/fleametaphore/UASGRAFIS](https://github.com/fleametaphore/UASGRAFIS)
 
 ## Group IV
 
